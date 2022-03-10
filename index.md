@@ -1,6 +1,6 @@
-##  DUPPLY Számítástechnikai kereskedelem és megoldásszállítás
+## DUPPLY Számítástechnikai kereskedelem és megoldásszállítás
 
-You can use the [editor on GitHub](https://github.com/alexdpply/first/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Megújult weboldalunk és webshopunk áprilisban elkészül, tarts velünk!
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
