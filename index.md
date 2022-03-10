@@ -2,7 +2,7 @@
 
 Megújult weboldalunk és webshopunk áprilisban elkészül, tarts velünk!
 
-### Vásárolj nálunk
+### Vásárolj nálunk még ma:
 
 #### Kitűnő árak 
 #### Valódi raktárkészlet
